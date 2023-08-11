@@ -178,7 +178,7 @@ public class SheetMusicMain
    private static void intro() {
 		System.out.println("\nWelcome to SheetMusicMain. Type the word in the left column to do the action on the right");
 		System.out.println("load     : load existing sheet music from a text file to play it");
-      System.out.println("create   : create/edit/play new sheet music");
+      		System.out.println("create   : create/edit/play new sheet music");
 		System.out.println("quit     : exit the program");
 	}
 
